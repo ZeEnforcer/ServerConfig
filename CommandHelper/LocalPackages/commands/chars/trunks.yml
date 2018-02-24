@@ -6,7 +6,7 @@ buffs:
 - /effect <plr> 13 9999 1 true
 - /shot give <plr> kiblast
 - /shot give <plr> kamehameha
-- - /give <plr> minecraft:iron_sword
+- /give <plr> minecraft:iron_sword
 chatcolor: '&9'
 class: trunks
 haste: 5
